@@ -1,6 +1,6 @@
 # Spark Decentralized Query Processing & Optimization
 
-This project is part of the "Distributed Data Processing Technologies" course offered by
+This project is part of the [Decentralized Data Technologies](https://www.ceid.upatras.gr/en/course/decentralized-data-technologies/) course offered by
 the [Department of Computer Engineering & Informatics](https://www.ceid.upatras.gr/en/) at
 the [University of Patras](https://www.upatras.gr/en/). The objective of the project is to design and implement a
 decentralized query processing and optimization system built on top of Apache Spark. The system will efficiently
